@@ -27,6 +27,7 @@ class BookmarkFragment : Fragment(com.teguh.newsmission.bookmark.R.layout.fragme
         loadKoinModules(bookmarkModule)
     }
 
+    @Suppress("DEPRECATION")
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         activity?.window?.statusBarColor = resources.getColor(R.color.black)
