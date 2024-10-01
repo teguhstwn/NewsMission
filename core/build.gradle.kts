@@ -8,7 +8,7 @@ plugins {
 
 android {
     namespace = "com.teguh.setiawan.core"
-    compileSdk = 33
+    compileSdk = 34
 
     buildFeatures {
         viewBinding = true
