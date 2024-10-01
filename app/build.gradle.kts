@@ -50,6 +50,7 @@ android {
 }
 apply(from = "../common.gradle")
 dependencies {
+
     implementation(project(":core"))
 
     // circle image view
