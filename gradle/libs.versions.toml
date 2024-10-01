@@ -1,16 +1,13 @@
 [versions]
-#agp = "8.5.2"
-agp = "7.4.0"
-#agp = "8.0.2"
+agp = "8.5.2"
 kotlin = "1.9.23"
-#kotlin = "1.8.0"
-coreKtx = "1.12.0"
+coreKtx = "1.13.1"
 junit = "4.13.2"
 junitVersion = "1.2.1"
 espressoCore = "3.6.1"
-appcompat = "1.6.1"
+appcompat = "1.7.0"
 material = "1.12.0"
-activity = "1.6.1"
+activity = "1.9.1"
 constraintlayout = "2.1.4"
 #networking
 retrofit = "2.11.0"
@@ -18,9 +15,8 @@ converterGson = "2.11.0"
 loggingInterceptor = "4.11.0"
 #ksp
 ksp = "1.9.23-1.0.19"
-#ksp = "1.8.0-1.0.10"
 #room
-room = "2.5.0"
+room = "2.6.1"
 #glide
 glide = "4.16.0"
 #circleimageview
