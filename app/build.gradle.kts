@@ -15,7 +15,7 @@ android {
     defaultConfig {
         applicationId = "com.teguh.setiawan.newsmission"
         minSdk = 26
-        targetSdk = 34
+        targetSdk = 33
         versionCode = 1
         versionName = "1.0"
 

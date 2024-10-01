@@ -5,7 +5,7 @@ plugins {
 }
 android {
     namespace = "com.teguh.newsmission.bookmark"
-    compileSdk = 34
+    compileSdk = 33
 
     defaultConfig {
         minSdk = 26

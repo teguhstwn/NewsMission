@@ -3,13 +3,13 @@
 agp = "7.4.0"
 kotlin = "1.9.23"
 #kotlin = "1.8.0"
-coreKtx = "1.13.1"
+coreKtx = "1.12.0"
 junit = "4.13.2"
 junitVersion = "1.2.1"
 espressoCore = "3.6.1"
 appcompat = "1.6.1"
 material = "1.12.0"
-activity = "1.7.0"
+activity = "1.6.1"
 constraintlayout = "2.1.4"
 #networking
 retrofit = "2.11.0"
@@ -35,7 +35,7 @@ playFeatureDelivery = "2.1.0"
 # sqlcipher
 zeteticSqlcipher = "4.4.0"
 # sqlite-ktx
-sqliteKtx = "2.4.0"
+sqliteKtx = "2.3.0"
 #lottie
 lottie = "3.4.1"
 #desugar
