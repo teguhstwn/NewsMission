@@ -5,15 +5,9 @@ orbs:
 
 jobs:
   build:
-    docker:
-      - image: circleci/openjdk:17-jdk  # Switch to a Java 17 Docker image
+    executor: android/android
     steps:
       - checkout
-      - run:
-          name: Set Java version
-          command: |
-            export JAVA_HOME=/usr/local/openjdk-17
-            export PATH=$JAVA_HOME/bin:$PATH
       - restore_cache:
           key: android-orb-v1-
       - run:
