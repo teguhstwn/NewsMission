@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@id/nav_bookmark"
+    app:startDestination="@id/fragmentBookmark">
+
+    <fragment
+        android:id="@+id/fragmentBookmark"
+        android:name="com.teguh.newsmission.bookmark.BookmarkFragment"
+        android:label="fragment_bookmark" />
+
+</navigation>

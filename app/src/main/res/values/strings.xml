@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewsMission</string>
+    <string name="tvBookmark">Bookmark</string>
+    <string name="tvOops">Oops!…</string>
+    <string name="tvSomethingWrong">Something went wrong…</string>
+    <string name="tvDetails">Details</string>
+    <string name="tvHome">Home</string>
+    <string name="tvAbout">About</string>
+    <string name="tvAppName">App Name</string>
+    <string name="tvVersion">Version</string>
+    <string name="tvDeveloper">Developer</string>
+    <string name="tvDeveloperName">Teguh Setiawan</string>
+    <string name="tvSavedToFavorite">Saved to bookmark</string>
+    <string name="tvRemovedToFavorite">Removed to bookmark</string>
+    <string name="title_bookmark">bookmark</string>
+</resources>

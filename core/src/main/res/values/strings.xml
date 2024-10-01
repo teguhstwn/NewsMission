@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="news_title">News Title Here News Title Here News Title Here News Title Here News Title Here</string>
+    <string name="news_subtitle">Sub Title News Here Sub Title News Here Sub Title News Here Sub Title News Here</string>
+    <string name="news_source">Source news</string>
+    <string name="news_time">Minggu, 21 Desember 2024</string>
+    <string name="image_description">Image Description</string>
+    <string name="tvOops">Oops!…</string>
+    <string name="tvSomethingWrong">Something went wrong…</string>
+</resources>

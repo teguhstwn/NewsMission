@@ -1,0 +1,34 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NewsMission" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/orange_300</item>
+        <item name="colorPrimaryDark">@color/orange_700</item>
+        <item name="colorAccent">@color/gray</item>
+    </style>
+
+    <!--Bottom navigation view-->
+    <style name="BottomNavigationView">
+        <item name="itemTextAppearanceActive">@style/TextAppearance.BottomNavigationView.Active</item>
+        <item name="itemTextAppearanceInactive">@style/TextAppearance.BottomNavigationView.Inactive</item>
+    </style>
+
+    <style name="TextAppearance"/>
+    <style name="TextAppearance.BottomNavigationView"/>
+
+    <style name="TextAppearance.BottomNavigationView.Inactive">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">sans-serif-medium</item>
+        <item name="colorPrimary">@color/orange_700</item>
+    </style>
+
+    <style name="TextAppearance.BottomNavigationView.Active">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">sans-serif-medium</item>
+        <item name="colorPrimary">@color/orange_700</item>
+        <item name="colorPrimaryDark">@color/orange_300</item>
+        <item name="colorAccent">@color/gray</item>
+    </style>
+
+    <style name="Theme.NewsMission" parent="Base.Theme.NewsMission" />
+</resources>
